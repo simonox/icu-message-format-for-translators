@@ -22,14 +22,15 @@
   },
   "homepage": "http://format-message.github.io/icu-message-format-for-translators/",
   "devDependencies": {
+
+  },
+  "dependencies": {
+    "express": "^2.5.10 ",
     "format-message-parse": "^4.1.0",
     "message-format": "^2.0.0",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
     "redux": "^3.5.2",
     "webpack": "^1.13.3"
-  },
-  "dependencies": {
-    "express": "^2.5.10 "
   }
 }
