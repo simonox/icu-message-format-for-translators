@@ -1,26 +1,21 @@
 {
-  "name": "icu-message-format-for-translators",
+  "name": "icu-contentful-preview",
   "private": true,
   "version": "1.0.0",
-  "description": "Instructions for translators using the ICU Message Format",
+  "description": "Preview for Contentful based on a ICU Message Format for translators demo",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server",
     "postinstall": "./node_modules/.bin/webpack"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/format-message/icu-message-format-for-translators.git"
-  },
-  "author": {
+  "authors": [{
     "name": "Andy VanWagoner",
     "email": "thetalecrafter@gmail.com"
-  },
+  },{
+    "name": "Oliver Ochs",
+    "email": "oliver.ochs@geeny.io"
+  }],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/format-message/icu-message-format-for-translators/issues"
-  },
-  "homepage": "http://format-message.github.io/icu-message-format-for-translators/",
   "devDependencies": {},
   "dependencies": {
     "contentful": "^3.7.0",
