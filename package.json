@@ -27,7 +27,7 @@
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
     "redux": "^3.5.2",
-    "webpack": "^1.13.1"
+    "webpack": "^1.13.3"
   },
   "dependencies": {
     "express": "^2.5.10 "
