@@ -21,10 +21,9 @@
     "url": "https://github.com/format-message/icu-message-format-for-translators/issues"
   },
   "homepage": "http://format-message.github.io/icu-message-format-for-translators/",
-  "devDependencies": {
-
-  },
+  "devDependencies": {},
   "dependencies": {
+    "contentful": "^3.7.0",
     "express": "^2.5.10 ",
     "format-message-parse": "^4.1.0",
     "message-format": "^2.0.0",
